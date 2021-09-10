@@ -29,7 +29,7 @@ if(!isset($_SESSION['id']))
     <link href="css_dashboard/style.css" rel="stylesheet">
     <style>
             table {
-            font-family: arial, sans-serif;
+            font-family: 'arial', sans-serif;
             border-collapse: collapse;
             width: 100%;
             }
