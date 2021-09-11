@@ -2,6 +2,7 @@
 <div class="home_content">
     <section class="layout_padding">
          <div class="container">
+          <div class="dashboard_card_about">
             <div class="row">
                <div class="full comment_form">
                <!-- about us data insert in database   -->
@@ -57,7 +58,8 @@
                            }
                         ?>
                       </div>
-                </div>        
+                  </div>
+             </div>        
       </section>        
 </div>
     <?php include('footer_dashboard.php');?>

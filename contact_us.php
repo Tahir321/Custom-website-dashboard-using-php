@@ -58,9 +58,8 @@
                             {
                                 echo 'Your details submit';
                             }
-                            else
-                            {
-                                echo 'Submission off';
+                            else{
+                               echo 'your data not submited';
                             }
                         }
                      ?>

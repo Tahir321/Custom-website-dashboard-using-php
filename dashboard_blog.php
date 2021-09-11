@@ -11,6 +11,7 @@
 <div class="home_content">
     <section class="layout_padding">
          <div class="container">
+         <div class="dashboard_card_blog">
             <div class="row">
                   <div class="full comment_form">
                      <h2>BlOGS</h2>
@@ -77,6 +78,7 @@
 
                      ?>
                     </div>
+                     </div>
              </div>
      </section>
  </div>
